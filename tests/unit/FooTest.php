@@ -13,7 +13,7 @@ class FooTest extends PHPUnit_Framework_TestCase
   {
 	$foo = new test22032014\Foo;
 	$result = $foo->toString();
-	$expected = 'bar';
+	$expected = 'foo';
     $this->assertEqual($result, $expected);
   }
 }

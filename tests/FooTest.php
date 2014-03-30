@@ -1,6 +1,6 @@
 <?php
 
-require_once __DIR__ . '/../lib/test220320114/Foo.php';
+require_once __DIR__ . '/../lib/test22032014/Foo.php';
 
 class FooTest extends PHPUnit_Framework_TestCase
 {
